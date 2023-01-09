@@ -1,4 +1,9 @@
 # NYCU_ML_Final
+
+## Background
+
+Solution of a kaggle competition : [Tabular Playground Series - Aug 2022](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview)
+
 ## Requirements
 
 To install requirements:
@@ -28,7 +33,7 @@ You can download pretrained models here, and use it in in inference file
 
 ## Inferencing
 
-You need to download test.csv and the pre-trained model mentioned above
+You need to download `test.csv` and the pre-trained model mentioned above
 
 ```inference
 109550137_Final_inference.ipynb
