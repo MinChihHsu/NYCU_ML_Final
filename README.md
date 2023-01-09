@@ -27,7 +27,7 @@ Testing Dataset : `test.csv`
 
 ## Pre-trained Model
 
-You can download pretrained models here, and use it in in inference file
+You can download pretrained models here, and use it in inference file
 
 - [Logistic Regression model](https://drive.google.com/drive/folders/15H1Gmzj7jPi61YhHIPpySuUBJeLezLcK?usp=share_link)
 
