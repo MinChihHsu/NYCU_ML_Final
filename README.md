@@ -33,7 +33,7 @@ You can download pretrained models here, and use it in inference file
 
 ## Inferencing
 
-You need to download `test.csv` and the pre-trained model mentioned above
+You need to download `dataset/test.csv` and the pre-trained model mentioned above
 
 ```inference
 109550137_Final_inference.ipynb
