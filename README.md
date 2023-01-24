@@ -15,9 +15,9 @@ pip install -r requirements.txt
 ```
 ## Dataset
 
-Training Dataset : `train.csv`
+Training Dataset : `dataset/train.csv`
 
-Testing Dataset : `test.csv`
+Testing Dataset : `dataset/test.csv`
 
 ## Training
 
